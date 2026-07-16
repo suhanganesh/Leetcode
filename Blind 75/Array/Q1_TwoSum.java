@@ -1,3 +1,8 @@
+/* 
+Try searching the difference of the sum in the array. 
+Use HashMap, while using difference of the sum, because it's faster. 
+*/
+
 import java.util.HashMap;
 
 class Solution {
