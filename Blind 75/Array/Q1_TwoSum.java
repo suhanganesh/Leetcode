@@ -20,7 +20,7 @@ class Solution {
     }
 }
 
-class Q1_TwoSum{
+public class Q1_TwoSum{
     public static void main(String[] args){
         Solution sol = new Solution();
         int[] arr = {3,2,4};

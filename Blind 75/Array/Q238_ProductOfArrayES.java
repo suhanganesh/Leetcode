@@ -23,7 +23,7 @@ class Solution {
     }
 }
 
-class Q238_ProductOfArrayES{
+public class Q238_ProductOfArrayES{
     public static void main(String[] args){
         Solution sol = new Solution();
         int[] arr = {-1,1,0,-3,3};
